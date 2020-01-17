@@ -1,2 +1,3 @@
 # hello-world
-first repository
+Hello people
+My name is Marcin, and I just wanted to edit this branch
